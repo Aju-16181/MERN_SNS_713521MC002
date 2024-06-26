@@ -1,1 +1,47 @@
+<head>
+    <body>
+        <table align="center" border="1">
+            <tr>
+                <th scope="col">PRODUCT</th>
+                <th scope="col">IMAGE</th>
+                <th scope="col">DESCRIPTION</th>
+                <th scope="col">PRICE</th>
+                <th scope="col">PRODUCT LINK</th>
+            </tr>
 
+            <tr>
+            <th scope="row">Ihone15</th>
+            <td><img src="iphone15.jpg" width="80"></td>
+            <td>The phone comes with a 60 Hz refresh rate 6.10-inch touchscreen display offering a resolution of 1179x2556 pixels at a pixel density of 460 pixels per inch (ppi). Apple iPhone 15 is powered by a hexa-core Apple A16 Bionic processor. It comes with 6GB of RAM.</td> 
+            <td>71,999 inr</td>
+            <td><a href="https://www.amazon.in/s?k=iphone+15&adgrpid=73651245061&ext_vrnc=hi&hvadid=590713744277&hvdev=c&hvlocphy=9154730&hvnetw=g&hvqmt=e&hvrand=11756683108824190691&hvtargid=kwd-326020435822&hydadcr=26420_2636094&tag=googinhydr1-21&ref=pd_sl_8lakkuyfx2_e">click to buy</a></td>
+            </tr>
+
+            <tr>
+                <th scope="row">Ihone15 Plus</th>
+                <td><img src="iphone15 plus.jpg" width="80"></td>
+                <td>The iPhone 15 Plus features a 6.7-inch Super Retina XDR display and is powered by the A16 Bionic chip, offering advanced performance and efficiency. It includes an improved dual-camera system, delivering exceptional photo and video quality.</td> 
+                <td>81,ooo inr</td>
+                <td><a href="https://www.amazon.in/Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=sr_1_1_sspa?adgrpid=155452546795&dib=eyJ2IjoiMSJ9.zCgC73fZp83fUUJ79PzVDSshsBv1VoA_s9MU70rVLUFST5LVVbP2IMAQw2HmjO8h-lkI5UZJAzhN3eKhy0y6r_kY3mFt3b4uZCRT5Cgq4_OMMUJk_kZIbeAn9M0KS6fkG24FQzhkwEQ_7SekysVyjebBlecVwHqg8uiQ7a0enNFAEcj0gcmL1K9kgr0Ltysbi_U76XdrZBaMp43TpQKg3txrcurOH7ekB3rIcvd1tyk.WJVcqcazr4czOndTFBzL5axQkNNJ1XAl2vKAgoXnQcQ&dib_tag=se&hvadid=677371325724&hvdev=c&hvlocphy=1007810&hvnetw=g&hvqmt=e&hvrand=6875703361371289755&hvtargid=kwd-2201585579662&hydadcr=24541_2265439&keywords=iphone+15+plus+amazon&qid=1719422166&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1">click to buy</a></td>
+            </tr>
+
+            <tr>
+                <th scope="row">Ihone15 pro</th>
+                <td><img src="iphone15 pro.jpg" width="80"></td>
+                <td>The iPhone 15 Pro features a sleek titanium design, offering durability and a premium feel. It boasts a powerful A17 Bionic chip, ensuring top-notch performance and efficiency. The camera system is enhanced with advanced imaging capabilities for stunning photos and videos. Additionally, the ProMotion display provides smooth and responsive touch interactions. </td> 
+                <td>1,27,990 inr</td>
+                <td><a href="https://www.amazon.in/Apple-iPhone-15-Pro-128/dp/B0CHX2DRGV/ref=sr_1_4?crid=TWL0L6I0NYY3&dib=eyJ2IjoiMSJ9.iB2vwuex0kDBGVm9gAEJCwIIO-q0T0M0LEzgLPFSSZqIzSajYDItG6C6vqHZpuwZTfitZ27AVpHdZwTmFHA_2UV1m2wgk8vuzdaGZY1wTAOr5G2ltUKVuxZsgr1BQaSDwfF4BELY0NgV3X8fsV5lEF74Xxc6hjqA1qz_xkzYul_2lRBjdBTxzL4S99ozekrUwoIIXCBf6VXVa15F7O2OZsedtt8PcEa2hwDRr-CE_Sg.W6yIzmzx77GHxFkR9f9FvJoVVVzF4FGJpq1KN34OB5k&dib_tag=se&keywords=iphone+15+pro+amazon&qid=1719422672&sprefix=iphone+15+pro+amazon%2Caps%2C261&sr=8-4">click to buy</a></td>
+                </tr>
+            
+                <tr>
+                    <th scope="row">Ihone15 pro max</th>
+                    <td><img src="iphone15promax.jpg" width="80"></td>
+                    <td>The iPhone 15 Pro Max features a sleek titanium design, the powerful A17 Bionic chip, and an advanced camera system with enhanced low-light performance. It offers a stunning Super Retina XDR display and all-day battery life.</td> 
+                    <td>1,47,990 inr</td>
+                    <td><a href="https://www.amazon.in/Apple-iPhone-Pro-Max-256/dp/B0CHWV2WYK/ref=sr_1_1_sspa?crid=Y5MEHOAT3RE2&dib=eyJ2IjoiMSJ9.ISrPaf3T6aI3UGMAazziT3iMMiww7JasSajA-sx9eHkxCiQ1wl0Trb_U3Wrc-ely5zc7oRBTlgnypj9Ml94gYNO4_hFZh1xCYjQxQ89ynq9oFV8CefUbsM29jPYL2Mepn8mraISbxwzDRQ6dDjsVZC4xALy2FzzRVKur7Ca-nPNxpNsm3sZ74JcYops_PGjXEqHs2EC_neRXPGh5RJ7uXBHHY06WzNBk1Croki-jBek.y7FdgMhB-8B7gKqoj3Eq9_ZXWbZZ3X46lWIL-GkJ_-w&dib_tag=se&keywords=iphone+15+pro+max+amazon&qid=1719422762&sprefix=iphone+15+pro+max+amazon%2Caps%2C245&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1">click to buy</a></td>
+                    </tr>
+
+                
+        </table>
+    </body>
+</head>
