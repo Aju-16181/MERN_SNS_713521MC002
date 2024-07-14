@@ -1,1 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head></head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>phscale</title>
+<style>
+    .container {
+        border: 10px solid gray;
+        padding: 10px;
+        background-color: gainsboro;
+    }
+    p{
+        margin: 0px;
+        padding: 10px;
+    }
+
+    h1 {
+        padding: 10px;
+        background-color: grey;
+    }
+
+    .first {
+        background-color: rgb(138, 1, 226);
+    }
+
+    .second {
+        background-color: rgb(138, 30, 225);
+    }
+
+    .third {
+        background-color: rgb(138, 60, 226);
+    }
+
+    .fourth {
+        background-color: rgb(138, 90, 226);
+    }
+
+    .fifth {
+        background-color: rgb(138, 110, 226);
+    }
+
+    .sixth {
+        background-color: rgb(138, 130, 226);
+    }
+
+    .seventh{
+        background-color: rgb(138, 150, 226);
+    }
+
+    .eight {
+        background-color: rgb(0, 4, 250);
+    }
+
+    .nine {
+        background-color: rgb(217, 0, 255);
+    }
+
+    .ten {
+        background-color: rgb(217, 30, 255) ;
+    }
+
+    .eleven {
+        background-color:rgb(217, 60, 255) ;
+    }
+
+    .towel {
+        background-color: rgb(217, 90, 255);
+    }
+    .thirteen {
+        background-color:rgb(217, 120, 255);
+    }
+    .fourteen {
+        background-color:rgb(217, 150, 255);
+    }
+    
+</style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>pH Scale</h1>
+            <p class="first">14.0 VERY ALKALINE</p>
+            <P class="second">13.0</P>
+            <p class="third">12.0</p>
+            <p class="fourth">11.0</p>
+            <p class="fifth">10.0</p>
+            <p class="sixth">9.0</p>
+            <p class="seventh">8.0</p>
+            <p class="eight" span style="font-size: 20px;">7.0 NEUTRAL</p>
+            <p class="nine">6.0</p>
+            <p class="ten">5.0</p>
+            <p class="eleven">4.0</p>
+            <p class="towel">3.0</p>
+            <p class="thirteen">2.0</p>
+            <p class="fourteen" span style="font-size: 20px;">1.0 VERY ACID </p>
+    </div>
+</body>
+
+</html>
