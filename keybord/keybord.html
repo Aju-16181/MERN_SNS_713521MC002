@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="Description" content="Enter your description here" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <title>Virtual keyboard</title>
+
+    <center>
+        <div class="container">
+            <h2 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: rgb(242, 85, 85); ">Virtual Keyboard</h2>
+            <input id="keyboard" class="en" type="text">
+            <div class="row">
+                <button class="col" onclick="appendToDisplay('1')">1</button>
+                <button class="col" onclick="appendToDisplay('2')">2</button>
+                <button class="col" onclick="appendToDisplay('3')">3</button>
+                <button class="col" onclick="appendToDisplay('4')">4</button>
+                <button class="col" onclick="appendToDisplay('5')">5</button>
+                <button class="col" onclick="appendToDisplay('6')">6</button>
+                <button class="col" onclick="appendToDisplay('7')">7</button>
+                <button class="col" onclick="appendToDisplay('8')">8</button>
+                <button class="col" onclick="appendToDisplay('9')">9</button>
+                <button class="col" onclick="appendToDisplay('0')">0</button>
+            </div>
+
+        <div class="row">
+            <button class="col" onclick="appendToDisplay('q')">Q</button>
+            <button class="col" onclick="appendToDisplay('e')">E</button>
+            <button class="col" onclick="appendToDisplay('r')">R</button>
+            <button class="col" onclick="appendToDisplay('t')">T</button>
+            <button class="col" onclick="appendToDisplay('y')">Y</button>
+            <button class="col" onclick="appendToDisplay('u')">U</button>
+            <button class="col" onclick="appendToDisplay('i')">I</button>
+            <button class="col" onclick="appendToDisplay('o')">O</button>
+            <button class="col" onclick="appendToDisplay('p')">P</button>
+        </div>
+
+
+        <div class="row">
+
+            <button class="col" onclick="appendToDisplay('a')">A</button>
+            <button class="col" onclick="appendToDisplay('s')">S</button>
+            <button class="col" onclick="appendToDisplay('d')">D</button>
+            <button class="col" onclick="appendToDisplay('f')">F</button>
+            <button class="col" onclick="appendToDisplay('g')">G</button>
+            <button class="col" onclick="appendToDisplay('h')">H</button>
+            <button class="col" onclick="appendToDisplay('j')">J</button>
+            <button class="col" onclick="appendToDisplay('k')">K</button>
+            <button class="col" onclick="appendToDisplay('l')">L</button>
+        </div>
+
+
+        <div class="row">
+
+            <button class="col" onclick="appendToDisplay('')">
+                <div class="bi bi-capslock"></div>
+            </button>
+            <button class="col" onclick="appendToDisplay('z')">Z</button>
+            <button class="col" onclick="appendToDisplay('x')">X</button>
+            <button class="col" onclick="appendToDisplay('c')">C</button>
+            <button class="col" onclick="appendToDisplay('v')">V</button>
+            <button class="col" onclick="appendToDisplay('b')">B</button>
+            <button class="col" onclick="appendToDisplay('n')">N</button>
+            <button class="col" onclick="appendToDisplay('m')">M</button>
+            <button class="col" onclick="back()">
+                <div class="bi bi-backspace-fill"></div>
+            </button>
+        </div>
+
+        <div class="row">
+
+            <button class="col" onclick="appendToDisplay('')"><div class="bi bi-123"></div></button>
+            <button class="col" onclick="appendToDisplay('')"><div class="bi bi-globe"></div></button>
+            <button class="col" onclick="appendToDisplay(',')">,</button>
+            <button class="col" onclick="appendToDisplay('')"><div class="bi bi-emoji-heart-eyes"></div></button>
+            <button class="col-4" onclick="appendToDisplay(' ')"></button>
+            <button class="col" onclick="appendToDisplay('.')">.</button>
+            <button class="col-2" onclick="appendToDisplay('')">ENTER</button>
+        </div>
+
+        </div>
+    </center>
+
+    <script src="keybord.js"></script>
+    <link rel="stylesheet" href="keyboard.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
+    </body>
+
+</html>

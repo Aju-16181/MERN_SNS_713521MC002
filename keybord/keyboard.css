@@ -1,0 +1,29 @@
+.container{
+    border: solid;
+    background-color: black;
+}
+.en{
+    width: 600px;
+    height: 40px;
+    border: 2px solid chocolate;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px chocolate;
+}
+
+.row{
+    margin: 5px;
+    gap: 5px;
+}
+
+button{
+    border-radius: 10px;
+    box-shadow: 1px 5px 10px chocolate;
+    
+}
+button:active{
+    color: chocolate;
+}
+button:hover{
+    background-color: brown;
+}
